@@ -33,6 +33,7 @@ reserved words to add more functionality and automation to your
 automatic tweets
 
 ## Syntax
+NOTE: Objects in (parentheses) are not part of the output
 ### Time
 Syntax | Function | Example
 --- | --- | ---
@@ -48,8 +49,8 @@ Syntax | Function | Example
 --dydatetime-- | Day month/day/year hour:minute meridian | Fri 11/11/2011 11:11 PM 
 --dydate-- | Day month/day/year | Fri 11/11/2011
 --dy24datetime-- | Day month/day/year 24hour:minute | Fri 11/11/2011 23:11 
---dydatetimes-- | Day month/day/year hour:minute:second meridian Fri 11/11/2011 11:11:11 PM
---dy24datetimes-- | Day month/day/year 24hour:minute:second Fri 11/11/2011 23:11:11
+--dydatetimes-- | Day month/day/year hour:minute:second meridian | Fri 11/11/2011 11:11:11 PM
+--dy24datetimes-- | Day month/day/year 24hour:minute:second | Fri 11/11/2011 23:11:11
 
 ### Twitter Profile Settings
 Syntax | Function | Example
@@ -65,6 +66,8 @@ Syntax | Function | Example
 --userpcolor-- | User's profile color (deprecated) | 000000
 
 ### Twitter Profile Counts
+Syntax | Function | Example
+--- | --- | ---
 --followers-- | User's follower count | 202 (as of 12/19/2017 23:19)
 --following-- | User's friend (following) count | 376 (as of 12/19/2017 23:19)
 --tweetcount-- | User's tweet count | 5235 (as of 12/19/2017 23:19)

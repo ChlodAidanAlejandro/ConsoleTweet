@@ -31,8 +31,8 @@ public class ConsoleTweet {
 	 * TODO Emoji support TODO Better time date functioning system TODO V1
 	 */
 
-	public static final String VERSION = "v0.4";
-	public static final int VERSION_CODE = 4;
+	public static final String VERSION = "v0.5";
+	public static final int VERSION_CODE = 5;
 	static Configuration c = new Configuration();
 	private static Twitter t;
 	
@@ -78,7 +78,7 @@ public class ConsoleTweet {
 			}
 		}
 		logAppend(getTime() + "Initializing twitter module...");
-		Twitter t = initTwitter(ACCESS_TOKEN,ACCESS_TOKEN_SECRET);
+		t = initTwitter(ACCESS_TOKEN,ACCESS_TOKEN_SECRET);
 		logAppend(getTime() + "Twitter module initialized");
 		logAppend(getTime() + "Confirming settings...");
 		try {
@@ -245,7 +245,6 @@ public class ConsoleTweet {
 	}
 
 	public static Twitter getTwitter() {
-		// return twitter of CAT
 		return t;
 	}
 

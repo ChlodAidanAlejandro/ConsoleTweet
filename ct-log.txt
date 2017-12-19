@@ -1,0 +1,912 @@
+RUN [2017/12/18 09:25:48] 
+RUN [2017/12/18 09:31:01] 
+[2017/12/18 09:31:01] Logger Initialized.
+[2017/12/18 09:31:01] Starting tweet piecing...
+[2017/12/18 09:31:01] Tweet pieced together
+[2017/12/18 09:31:01] No arguments input. No tweet output.
+END [2017/12/18 09:31:01] 
+RUN [2017/12/18 09:31:18] 
+[2017/12/18 09:31:18] Logger Initialized.
+[2017/12/18 09:31:18] Starting tweet piecing...
+[2017/12/18 09:31:18] Tweet pieced together
+[2017/12/18 09:31:18] No arguments input. No tweet output.
+END [2017/12/18 09:31:18] 
+RUN [2017/12/18 09:32:11] 
+[2017/12/18 09:32:11] Logger Initialized.
+[2017/12/18 09:32:11] Starting tweet piecing...
+[2017/12/18 09:32:11] Tweet pieced together
+[2017/12/18 09:32:12] Twitter module initialized
+[2017/12/18 09:32:15] Tweeted successfully
+END [2017/12/18 09:32:15] 
+RUN [2017/12/18 09:44:08] 
+[2017/12/18 09:44:08] Logger Initialized.
+[2017/12/18 09:44:08] Starting tweet piecing...
+[2017/12/18 09:44:08] Tweet pieced together
+[2017/12/18 09:44:08] Twitter module initialized
+[2017/12/18 09:44:11] Tweeted successfully
+END [2017/12/18 09:44:11] 
+RUN [2017/12/18 09:47:31] 
+[2017/12/18 09:47:31] Logger Initialized.
+[2017/12/18 09:47:31] Starting tweet piecing...
+[2017/12/18 09:47:31] Tweet pieced together
+[2017/12/18 09:47:31] Twitter module initialized
+[2017/12/18 09:47:32] Tweeting failed
+END [2017/12/18 09:47:32] 
+RUN [2017/12/18 09:48:01] 
+[2017/12/18 09:48:01] Logger Initialized.
+[2017/12/18 09:48:01] Starting tweet piecing...
+[2017/12/18 09:48:01] Tweet pieced together
+[2017/12/18 09:48:01] Twitter module initialized
+[2017/12/18 09:48:03] Tweeted "thisisatestingtweetforarandomprojectimmakinglol" sucessfully at Mon Dec 18 09:48:03 SGT 2017
+END [2017/12/18 09:48:03] 
+RUN [2017/12/18 09:49:09] 
+[2017/12/18 09:49:09] Logger Initialized.
+[2017/12/18 09:49:09] Starting tweet piecing...
+[2017/12/18 09:49:09] Tweet pieced together
+[2017/12/18 09:49:10] Twitter module initialized
+[2017/12/18 09:49:11] Tweeted "this is a tweet from an automatic tweet program im making. run at --datetimes--" sucessfully at Mon Dec 18 09:49:11 SGT 2017
+END [2017/12/18 09:49:11] 
+RUN [2017/12/18 09:53:36] 
+[2017/12/18 09:53:36] Logger Initialized.
+[2017/12/18 09:53:36] Starting tweet piecing...
+[2017/12/18 09:53:36] Tweet pieced together
+[2017/12/18 09:53:36] Twitter module initialized
+[2017/12/18 09:53:40] Tweeted "this is a tweet from an automatic tweet program im making. run at 2017/12/18 09:53:36 AM" sucessfully at Mon Dec 18 09:53:40 SGT 2017
+END [2017/12/18 09:53:40] 
+RUN [12/18/2017 09:59:38] 
+[12/18/2017 09:59:38] Logger Initialized.
+[12/18/2017 09:59:38] Starting tweet piecing...
+[12/18/2017 09:59:38] Tweet pieced together
+[12/18/2017 09:59:38] Tweet must not exceed 140 characters (tweet has 841)
+END [12/18/2017 09:59:38] 
+RUN [12/18/2017 10:03:19] 
+[12/18/2017 10:03:19] Logger Initialized.
+[12/18/2017 10:03:19] Starting tweet piecing...
+[12/18/2017 10:03:19] Tweet pieced together
+[12/18/2017 10:03:19] Twitter module initialized
+[12/18/2017 10:03:25] Tweeted "Good Morning! It's 10:03 AM right now on --date--! Have a good day! ??????" sucessfully at Mon Dec 18 10:03:24 SGT 2017
+END [12/18/2017 10:03:25] 
+RUN [12/18/2017 10:05:17] 
+[12/18/2017 10:05:17] Logger Initialized.
+[12/18/2017 10:05:17] Starting tweet piecing...
+[12/18/2017 10:05:17] Tweet pieced together
+[12/18/2017 10:05:17] Twitter module initialized
+[12/18/2017 10:05:19] Tweeted "Good Morning! It's 10:05 AM right now on --date--! Have a good day! ??????" sucessfully at Mon Dec 18 10:05:19 SGT 2017
+END [12/18/2017 10:05:19] 
+RUN [12/18/2017 10:27:49] 
+[12/18/2017 10:27:49] Logger Initialized.
+[12/18/2017 10:27:49] Starting tweet piecing...
+[12/18/2017 10:27:49] Tweet pieced together
+[12/18/2017 10:27:49] Tweet must not exceed 140 characters (tweet has 224)
+END [12/18/2017 10:27:49] 
+RUN [12/18/2017 10:28:47] 
+[12/18/2017 10:28:47] Logger Initialized.
+[12/18/2017 10:28:47] Starting tweet piecing...
+[12/18/2017 10:28:47] Tweet pieced together
+[12/18/2017 10:28:47] Twitter module initialized
+[12/18/2017 10:28:51] Tweeted "Good Morning! It's 10:28 AM  right now on --date--! Have a good day! ??????" sucessfully at Mon Dec 18 10:28:50 SGT 2017
+END [12/18/2017 10:28:51] 
+RUN [12/18/2017 10:43:29] 
+[12/18/2017 10:43:29] Logger Initialized.
+[12/18/2017 10:43:29] Starting tweet piecing...
+[12/18/2017 10:43:29] Tweet pieced together
+[12/18/2017 10:43:30] Twitter module initialized
+[12/18/2017 10:43:37] Tweeted "Good Morning! It's -10:43 AM  right now on -12/18/2017 ! Have a good day!" sucessfully at Mon Dec 18 10:43:37 SGT 2017
+END [12/18/2017 10:43:37] 
+RUN [12/18/2017 10:44:14] 
+[12/18/2017 10:44:14] Logger Initialized.
+[12/18/2017 10:44:14] Starting tweet piecing...
+[12/18/2017 10:44:14] Tweet pieced together
+[12/18/2017 10:44:14] Twitter module initialized
+[12/18/2017 10:44:15] Tweeted "Good Morning! It's 10:44 AM  right now on 12/18/2017 ! Have a good day!" sucessfully at Mon Dec 18 10:44:15 SGT 2017
+END [12/18/2017 10:44:15] 
+RUN [12/18/2017 11:33:20] 
+[12/18/2017 11:33:20] Logger Initialized.
+[12/18/2017 11:33:20] Starting tweet piecing...
+[12/18/2017 11:33:20] Tweet pieced together. Locating errors...
+Tweet piecing successful.
+[12/18/2017 11:33:20] Twitter module initialized
+[12/18/2017 11:33:23] Tweeted "this is a tweet from an automatic tweet program im making. run at 12/18/2017 11:33:20 AM" sucessfully at Mon Dec 18 11:33:22 SGT 2017
+END [12/18/2017 11:33:23] 
+RUN [12/18/2017 12:11:00] 
+[12/18/2017 12:11:00] Logger Initialized.
+[12/18/2017 12:11:00] Twitter module initialized
+[12/18/2017 12:11:00] Starting tweet piecing...
+[12/18/2017 12:11:00] Tweet pieced together. Locating errors...
+[12/18/2017 12:11:00] Tweet piecing successful.
+[12/18/2017 12:11:02] Tweeted "this\ntweet\ncontains\nnew\nlines" sucessfully at Mon Dec 18 12:11:02 SGT 2017
+END [12/18/2017 12:11:02] 
+RUN [12/18/2017 12:12:18] 
+[12/18/2017 12:12:18] Logger Initialized.
+[12/18/2017 12:12:18] Twitter module initialized
+[12/18/2017 12:12:18] Starting tweet piecing...
+[12/18/2017 12:12:18] Tweet pieced together. Locating errors...
+[12/18/2017 12:12:18] Tweet piecing successful.
+[12/18/2017 12:12:20] Tweeted "this\ntweet\ncontains\nnew\nlines\n\nMon 12/18/2017 12:12:18 PM" sucessfully at Mon Dec 18 12:12:19 SGT 2017
+END [12/18/2017 12:12:20] 
+RUN [12/18/2017 12:14:00] 
+[12/18/2017 12:14:00] Logger Initialized.
+[12/18/2017 12:14:01] Twitter module initialized
+[12/18/2017 12:14:01] Starting tweet piecing...
+[12/18/2017 12:14:01] Tweet pieced together. Locating errors...
+[12/18/2017 12:14:01] Tweet piecing successful.
+[12/18/2017 12:14:03] Tweeted "this\ntweet\ncontains\nnew\nlines\n\nMon 12/18/2017 12:14:01 PM" sucessfully at Mon Dec 18 12:14:02 SGT 2017
+END [12/18/2017 12:14:03] 
+RUN [12/18/2017 12:15:53] 
+[12/18/2017 12:15:54] Logger Initialized.
+[12/18/2017 12:15:54] Twitter module initialized
+[12/18/2017 12:15:54] Starting tweet piecing...
+[12/18/2017 12:15:54] Tweet pieced together. Locating errors...
+[12/18/2017 12:15:54] Tweet piecing successful.
+[12/18/2017 12:15:57] Tweeted "this\ntweet\ncontains\nnew\nlines\n\nMon 12/18/2017 12:15:54 PM" sucessfully at Mon Dec 18 12:15:57 SGT 2017
+END [12/18/2017 12:15:58] 
+RUN [12/18/2017 12:17:42] 
+[12/18/2017 12:17:42] Logger Initialized.
+[12/18/2017 12:17:42] Twitter module initialized
+[12/18/2017 12:17:42] Starting tweet piecing...
+[12/18/2017 12:17:42] Tweet pieced together. Locating errors...
+[12/18/2017 12:17:42] Tweet piecing successful.
+[12/18/2017 12:17:44] Tweeted "this\ntweet\ncontains\nnew\nlines\n\nMon 12/18/2017 12:17:42 PM" sucessfully at Mon Dec 18 12:17:43 SGT 2017
+END [12/18/2017 12:17:44] 
+RUN [12/18/2017 21:04:09] 
+[12/18/2017 21:04:09] Logger Initialized.
+[12/18/2017 21:04:09] Twitter module initialized
+[12/18/2017 21:04:09] Starting tweet piecing...
+[12/18/2017 21:04:09] Tweet pieced together. Locating errors...
+[12/18/2017 21:04:09] Tweet piecing successful.
+[12/18/2017 21:04:09] Raw input: 
+[12/18/2017 21:04:09] Syntaxed input: 
+[12/18/2017 21:04:09] All error checks complete. Preparing tweet...
+[12/18/2017 21:04:10] No arguments input. No tweet output.
+[12/18/2017 21:04:10] Tweet is a no-go. Exiting program...
+END [12/18/2017 21:04:10] 
+RUN [12/18/2017 21:15:47] 
+[12/18/2017 21:15:47] Logger Initialized.
+[12/18/2017 21:15:47] Initializing twitter module...
+[12/18/2017 21:15:47] Twitter module initialized
+[12/18/2017 21:15:47] Confirming settings...
+RUN [12/18/2017 21:20:41] 
+[12/18/2017 21:20:41] Logger Initialized.
+[12/18/2017 21:20:41] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:20:41] Your config file is broken. We have to do setup again.
+Configuration deletion successful
+[12/18/2017 21:20:41] This looks like your first time running, 
+[12/18/2017 21:20:41] so we're going to set everything up for you,
+[12/18/2017 21:20:41] but we need your help.
+[12/18/2017 21:20:41] 
+[12/18/2017 21:20:41] Please go to apps.twitter.com and we'll create
+[12/18/2017 21:20:41] a new application to run this program.
+[12/18/2017 21:20:41] 
+[12/18/2017 21:20:41] Create a new application (make sure that your
+[12/18/2017 21:20:41] mobile phone number has been confirmed) named
+[12/18/2017 21:20:41] to your liking. Set a description as well and
+[12/18/2017 21:20:41] set the application link to a placeholder site
+[12/18/2017 21:20:41] (we recommend http://example.com) then agree
+[12/18/2017 21:20:41] to the Developer Terms and Conditions.
+[12/18/2017 21:20:41] 
+[12/18/2017 21:20:41] Once created, click 'modify app permissions'
+[12/18/2017 21:20:41] beside the 'Access level' under 'Application
+[12/18/2017 21:20:41] Settings', then select Read and Write. Press
+[12/18/2017 21:20:41] 'Update Settings' to apply changes.
+[12/18/2017 21:20:41] 
+[12/18/2017 21:20:41] Last part! Go to 'Keys and Access Tokens' and
+[12/18/2017 21:20:41] press 'Create my access token' under 'Your
+[12/18/2017 21:20:41] Access Token'. Now it's time to fill in the
+[12/18/2017 21:20:41] blanks.
+[12/18/2017 21:20:41] 
+[12/18/2017 21:20:41] NOTE: Make sure no one else can see your keys,
+[12/18/2017 21:20:41] tokens and secrets. ConsoleTweeter does not
+[12/18/2017 21:20:41] upload your keys. They are safe in the run
+[12/18/2017 21:20:41] folder of the executable JAR file and on
+[12/18/2017 21:20:41] Twitter.
+[12/18/2017 21:20:41] 
+[12/18/2017 21:20:41] Insert your Consumer Key (API Key) found
+[12/18/2017 21:20:41] under 'Application Settings' below, then hit
+[12/18/2017 21:20:41] the Return/Enter key:
+RUN [12/18/2017 21:22:00] 
+[12/18/2017 21:22:00] Logger Initialized.
+[12/18/2017 21:22:00] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:22:00] Your config file is broken. We have to do setup again.
+[12/18/2017 21:22:00] Configuration deletion successful
+[12/18/2017 21:22:00] This looks like your first time running, 
+[12/18/2017 21:22:00] so we're going to set everything up for you,
+[12/18/2017 21:22:00] but we need your help.
+[12/18/2017 21:22:00] 
+[12/18/2017 21:22:00] Please go to apps.twitter.com and we'll create
+[12/18/2017 21:22:00] a new application to run this program.
+[12/18/2017 21:22:00] 
+[12/18/2017 21:22:00] Create a new application (make sure that your
+[12/18/2017 21:22:00] mobile phone number has been confirmed) named
+[12/18/2017 21:22:00] to your liking. Set a description as well and
+[12/18/2017 21:22:00] set the application link to a placeholder site
+[12/18/2017 21:22:00] (we recommend http://example.com) then agree
+[12/18/2017 21:22:00] to the Developer Terms and Conditions.
+[12/18/2017 21:22:00] 
+[12/18/2017 21:22:00] Once created, click 'modify app permissions'
+[12/18/2017 21:22:00] beside the 'Access level' under 'Application
+[12/18/2017 21:22:00] Settings', then select Read and Write. Press
+[12/18/2017 21:22:00] 'Update Settings' to apply changes.
+[12/18/2017 21:22:00] 
+[12/18/2017 21:22:00] Last part! Go to 'Keys and Access Tokens' and
+[12/18/2017 21:22:00] press 'Create my access token' under 'Your
+[12/18/2017 21:22:00] Access Token'. Now it's time to fill in the
+[12/18/2017 21:22:00] blanks.
+[12/18/2017 21:22:00] 
+[12/18/2017 21:22:00] NOTE: Make sure no one else can see your keys,
+[12/18/2017 21:22:00] tokens and secrets. ConsoleTweeter does not
+[12/18/2017 21:22:00] upload your keys. They are safe in the run
+[12/18/2017 21:22:00] folder of the executable JAR file and on
+[12/18/2017 21:22:00] Twitter.
+[12/18/2017 21:22:00] 
+[12/18/2017 21:22:00] Insert your Consumer Key (API Key) found
+[12/18/2017 21:22:00] under 'Application Settings' below, then hit
+[12/18/2017 21:22:00] the Return/Enter key:
+[12/18/2017 21:22:40] Insert your Consumer Secret (API Secret) found
+[12/18/2017 21:22:40] under 'Application Settings' below, then hit
+[12/18/2017 21:22:40] the Return/Enter key:
+[12/18/2017 21:22:47] Insert your Access Token found
+[12/18/2017 21:22:47] under 'Your Access Token' below, then hit
+[12/18/2017 21:22:47] the Return/Enter key:
+[12/18/2017 21:22:58] Insert your Access Token Secret found
+[12/18/2017 21:22:58] under 'Your Access Token' below, then hit
+[12/18/2017 21:22:58] the Return/Enter key:
+[12/18/2017 21:23:04] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:23:04] Your config file is broken. We have to do setup again.
+[12/18/2017 21:23:04] Configuration deletion successful
+[12/18/2017 21:23:04] This looks like your first time running, 
+[12/18/2017 21:23:04] so we're going to set everything up for you,
+[12/18/2017 21:23:04] but we need your help.
+[12/18/2017 21:23:04] 
+[12/18/2017 21:23:04] Please go to apps.twitter.com and we'll create
+[12/18/2017 21:23:04] a new application to run this program.
+[12/18/2017 21:23:04] 
+[12/18/2017 21:23:04] Create a new application (make sure that your
+[12/18/2017 21:23:04] mobile phone number has been confirmed) named
+[12/18/2017 21:23:04] to your liking. Set a description as well and
+[12/18/2017 21:23:04] set the application link to a placeholder site
+[12/18/2017 21:23:04] (we recommend http://example.com) then agree
+[12/18/2017 21:23:04] to the Developer Terms and Conditions.
+[12/18/2017 21:23:04] 
+[12/18/2017 21:23:04] Once created, click 'modify app permissions'
+[12/18/2017 21:23:04] beside the 'Access level' under 'Application
+[12/18/2017 21:23:04] Settings', then select Read and Write. Press
+[12/18/2017 21:23:04] 'Update Settings' to apply changes.
+[12/18/2017 21:23:04] 
+[12/18/2017 21:23:04] Last part! Go to 'Keys and Access Tokens' and
+[12/18/2017 21:23:04] press 'Create my access token' under 'Your
+[12/18/2017 21:23:04] Access Token'. Now it's time to fill in the
+[12/18/2017 21:23:04] blanks.
+[12/18/2017 21:23:04] 
+[12/18/2017 21:23:04] NOTE: Make sure no one else can see your keys,
+[12/18/2017 21:23:04] tokens and secrets. ConsoleTweeter does not
+[12/18/2017 21:23:04] upload your keys. They are safe in the run
+[12/18/2017 21:23:04] folder of the executable JAR file and on
+[12/18/2017 21:23:04] Twitter.
+[12/18/2017 21:23:04] 
+[12/18/2017 21:23:04] Insert your Consumer Key (API Key) found
+[12/18/2017 21:23:04] under 'Application Settings' below, then hit
+[12/18/2017 21:23:04] the Return/Enter key:
+RUN [12/18/2017 21:24:14] 
+[12/18/2017 21:24:14] Logger Initialized.
+[12/18/2017 21:24:14] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:24:14] Your config file is broken. We have to do setup again.
+[12/18/2017 21:24:14] Configuration deletion successful
+[12/18/2017 21:24:14] This looks like your first time running, 
+[12/18/2017 21:24:14] so we're going to set everything up for you,
+[12/18/2017 21:24:14] but we need your help.
+[12/18/2017 21:24:14] 
+[12/18/2017 21:24:14] Please go to apps.twitter.com and we'll create
+[12/18/2017 21:24:14] a new application to run this program.
+[12/18/2017 21:24:14] 
+[12/18/2017 21:24:14] Create a new application (make sure that your
+[12/18/2017 21:24:14] mobile phone number has been confirmed) named
+[12/18/2017 21:24:14] to your liking. Set a description as well and
+[12/18/2017 21:24:14] set the application link to a placeholder site
+[12/18/2017 21:24:14] (we recommend http://example.com) then agree
+[12/18/2017 21:24:15] to the Developer Terms and Conditions.
+[12/18/2017 21:24:15] 
+[12/18/2017 21:24:15] Once created, click 'modify app permissions'
+[12/18/2017 21:24:15] beside the 'Access level' under 'Application
+[12/18/2017 21:24:15] Settings', then select Read and Write. Press
+[12/18/2017 21:24:15] 'Update Settings' to apply changes.
+[12/18/2017 21:24:15] 
+[12/18/2017 21:24:15] Last part! Go to 'Keys and Access Tokens' and
+[12/18/2017 21:24:15] press 'Create my access token' under 'Your
+[12/18/2017 21:24:15] Access Token'. Now it's time to fill in the
+[12/18/2017 21:24:15] blanks.
+[12/18/2017 21:24:15] 
+[12/18/2017 21:24:15] NOTE: Make sure no one else can see your keys,
+[12/18/2017 21:24:15] tokens and secrets. ConsoleTweeter does not
+[12/18/2017 21:24:15] upload your keys. They are safe in the run
+[12/18/2017 21:24:15] folder of the executable JAR file and on
+[12/18/2017 21:24:15] Twitter.
+[12/18/2017 21:24:15] 
+[12/18/2017 21:24:15] Insert your Consumer Key (API Key) found
+[12/18/2017 21:24:15] under 'Application Settings' below, then hit
+[12/18/2017 21:24:15] the Return/Enter key:
+[12/18/2017 21:24:23] Insert your Consumer Secret (API Secret) found
+[12/18/2017 21:24:23] under 'Application Settings' below, then hit
+[12/18/2017 21:24:23] the Return/Enter key:
+[12/18/2017 21:24:31] Insert your Access Token found
+[12/18/2017 21:24:31] under 'Your Access Token' below, then hit
+[12/18/2017 21:24:31] the Return/Enter key:
+[12/18/2017 21:24:39] Insert your Access Token Secret found
+[12/18/2017 21:24:39] under 'Your Access Token' below, then hit
+[12/18/2017 21:24:39] the Return/Enter key:
+RUN [12/18/2017 21:26:34] 
+[12/18/2017 21:26:34] Logger Initialized.
+[12/18/2017 21:26:34] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:26:34] Your config file is broken. We have to do setup again.
+[12/18/2017 21:26:34] Configuration deletion successful
+[12/18/2017 21:26:34] This looks like your first time running, 
+[12/18/2017 21:26:34] so we're going to set everything up for you,
+[12/18/2017 21:26:34] but we need your help.
+[12/18/2017 21:26:34] 
+[12/18/2017 21:26:34] Please go to apps.twitter.com and we'll create
+[12/18/2017 21:26:34] a new application to run this program.
+[12/18/2017 21:26:34] 
+[12/18/2017 21:26:34] Create a new application (make sure that your
+[12/18/2017 21:26:34] mobile phone number has been confirmed) named
+[12/18/2017 21:26:34] to your liking. Set a description as well and
+[12/18/2017 21:26:34] set the application link to a placeholder site
+[12/18/2017 21:26:34] (we recommend http://example.com) then agree
+[12/18/2017 21:26:34] to the Developer Terms and Conditions.
+[12/18/2017 21:26:34] 
+[12/18/2017 21:26:34] Once created, click 'modify app permissions'
+[12/18/2017 21:26:34] beside the 'Access level' under 'Application
+[12/18/2017 21:26:34] Settings', then select Read and Write. Press
+[12/18/2017 21:26:34] 'Update Settings' to apply changes.
+[12/18/2017 21:26:34] 
+[12/18/2017 21:26:34] Last part! Go to 'Keys and Access Tokens' and
+[12/18/2017 21:26:34] press 'Create my access token' under 'Your
+[12/18/2017 21:26:34] Access Token'. Now it's time to fill in the
+[12/18/2017 21:26:34] blanks.
+[12/18/2017 21:26:34] 
+[12/18/2017 21:26:34] NOTE: Make sure no one else can see your keys,
+[12/18/2017 21:26:34] tokens and secrets. ConsoleTweeter does not
+[12/18/2017 21:26:34] upload your keys. They are safe in the run
+[12/18/2017 21:26:34] folder of the executable JAR file and on
+[12/18/2017 21:26:34] Twitter.
+[12/18/2017 21:26:34] 
+[12/18/2017 21:26:34] Insert your Consumer Key (API Key) found
+[12/18/2017 21:26:34] under 'Application Settings' below, then hit
+[12/18/2017 21:26:34] the Return/Enter key:
+[12/18/2017 21:26:43] Insert your Consumer Secret (API Secret) found
+[12/18/2017 21:26:43] under 'Application Settings' below, then hit
+[12/18/2017 21:26:43] the Return/Enter key:
+[12/18/2017 21:26:46] Insert your Access Token found
+[12/18/2017 21:26:46] under 'Your Access Token' below, then hit
+[12/18/2017 21:26:46] the Return/Enter key:
+[12/18/2017 21:26:52] Insert your Access Token Secret found
+[12/18/2017 21:26:52] under 'Your Access Token' below, then hit
+[12/18/2017 21:26:52] the Return/Enter key:
+RUN [12/18/2017 21:29:16] 
+[12/18/2017 21:29:16] Logger Initialized.
+[12/18/2017 21:29:16] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:29:16] Your config file is broken. We have to do setup again.
+[12/18/2017 21:29:16] Configuration deletion successful
+[12/18/2017 21:29:16] This looks like your first time running, 
+[12/18/2017 21:29:16] so we're going to set everything up for you,
+[12/18/2017 21:29:16] but we need your help.
+[12/18/2017 21:29:16] 
+[12/18/2017 21:29:16] Please go to apps.twitter.com and we'll create
+[12/18/2017 21:29:16] a new application to run this program.
+[12/18/2017 21:29:16] 
+[12/18/2017 21:29:16] Create a new application (make sure that your
+[12/18/2017 21:29:16] mobile phone number has been confirmed) named
+[12/18/2017 21:29:16] to your liking. Set a description as well and
+[12/18/2017 21:29:16] set the application link to a placeholder site
+[12/18/2017 21:29:16] (we recommend http://example.com) then agree
+[12/18/2017 21:29:16] to the Developer Terms and Conditions.
+[12/18/2017 21:29:16] 
+[12/18/2017 21:29:16] Once created, click 'modify app permissions'
+[12/18/2017 21:29:16] beside the 'Access level' under 'Application
+[12/18/2017 21:29:16] Settings', then select Read and Write. Press
+[12/18/2017 21:29:16] 'Update Settings' to apply changes.
+[12/18/2017 21:29:16] 
+[12/18/2017 21:29:16] Last part! Go to 'Keys and Access Tokens' and
+[12/18/2017 21:29:16] press 'Create my access token' under 'Your
+[12/18/2017 21:29:16] Access Token'. Now it's time to fill in the
+[12/18/2017 21:29:16] blanks.
+[12/18/2017 21:29:16] 
+[12/18/2017 21:29:16] NOTE: Make sure no one else can see your keys,
+[12/18/2017 21:29:16] tokens and secrets. ConsoleTweeter does not
+[12/18/2017 21:29:16] upload your keys. They are safe in the run
+[12/18/2017 21:29:16] folder of the executable JAR file and on
+[12/18/2017 21:29:16] Twitter.
+[12/18/2017 21:29:16] 
+[12/18/2017 21:29:16] Insert your Consumer Key (API Key) found
+[12/18/2017 21:29:16] under 'Application Settings' below, then hit
+[12/18/2017 21:29:16] the Return/Enter key:
+[12/18/2017 21:29:26] Insert your Consumer Secret (API Secret) found
+[12/18/2017 21:29:26] under 'Application Settings' below, then hit
+[12/18/2017 21:29:26] the Return/Enter key:
+[12/18/2017 21:29:30] Insert your Access Token found
+[12/18/2017 21:29:30] under 'Your Access Token' below, then hit
+[12/18/2017 21:29:30] the Return/Enter key:
+[12/18/2017 21:29:35] Insert your Access Token Secret found
+[12/18/2017 21:29:35] under 'Your Access Token' below, then hit
+[12/18/2017 21:29:35] the Return/Enter key:
+[12/18/2017 21:29:43] Configuration loaded. Let's rock and roll.
+RUN [12/18/2017 21:30:37] 
+[12/18/2017 21:30:37] Logger Initialized.
+[12/18/2017 21:30:37] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:30:37] Your config file is broken. We have to do setup again.
+[12/18/2017 21:30:37] Configuration deletion successful
+[12/18/2017 21:30:37] This looks like your first time running, 
+[12/18/2017 21:30:37] so we're going to set everything up for you,
+[12/18/2017 21:30:37] but we need your help.
+[12/18/2017 21:30:37] 
+[12/18/2017 21:30:37] Please go to apps.twitter.com and we'll create
+[12/18/2017 21:30:37] a new application to run this program.
+[12/18/2017 21:30:37] 
+[12/18/2017 21:30:37] Create a new application (make sure that your
+[12/18/2017 21:30:37] mobile phone number has been confirmed) named
+[12/18/2017 21:30:37] to your liking. Set a description as well and
+[12/18/2017 21:30:37] set the application link to a placeholder site
+[12/18/2017 21:30:37] (we recommend http://example.com) then agree
+[12/18/2017 21:30:37] to the Developer Terms and Conditions.
+[12/18/2017 21:30:37] 
+[12/18/2017 21:30:37] Once created, click 'modify app permissions'
+[12/18/2017 21:30:37] beside the 'Access level' under 'Application
+[12/18/2017 21:30:37] Settings', then select Read and Write. Press
+[12/18/2017 21:30:37] 'Update Settings' to apply changes.
+[12/18/2017 21:30:37] 
+[12/18/2017 21:30:37] Last part! Go to 'Keys and Access Tokens' and
+[12/18/2017 21:30:37] press 'Create my access token' under 'Your
+[12/18/2017 21:30:37] Access Token'. Now it's time to fill in the
+[12/18/2017 21:30:37] blanks.
+[12/18/2017 21:30:37] 
+[12/18/2017 21:30:37] NOTE: Make sure no one else can see your keys,
+[12/18/2017 21:30:37] tokens and secrets. ConsoleTweeter does not
+[12/18/2017 21:30:37] upload your keys. They are safe in the run
+[12/18/2017 21:30:37] folder of the executable JAR file and on
+[12/18/2017 21:30:37] Twitter.
+[12/18/2017 21:30:37] 
+[12/18/2017 21:30:37] Insert your Consumer Key (API Key) found
+[12/18/2017 21:30:37] under 'Application Settings' below, then hit
+[12/18/2017 21:30:37] the Return/Enter key:
+[12/18/2017 21:30:43] Insert your Consumer Secret (API Secret) found
+[12/18/2017 21:30:43] under 'Application Settings' below, then hit
+[12/18/2017 21:30:43] the Return/Enter key:
+[12/18/2017 21:30:47] Insert your Access Token found
+[12/18/2017 21:30:47] under 'Your Access Token' below, then hit
+[12/18/2017 21:30:47] the Return/Enter key:
+[12/18/2017 21:30:52] Insert your Access Token Secret found
+[12/18/2017 21:30:52] under 'Your Access Token' below, then hit
+[12/18/2017 21:30:52] the Return/Enter key:
+[12/18/2017 21:31:05] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:31:05] Your config file is broken. We have to do setup again.
+[12/18/2017 21:31:05] Configuration deletion successful
+[12/18/2017 21:31:06] This looks like your first time running, 
+[12/18/2017 21:31:06] so we're going to set everything up for you,
+[12/18/2017 21:31:06] but we need your help.
+[12/18/2017 21:31:06] 
+[12/18/2017 21:31:06] Please go to apps.twitter.com and we'll create
+[12/18/2017 21:31:06] a new application to run this program.
+[12/18/2017 21:31:06] 
+[12/18/2017 21:31:06] Create a new application (make sure that your
+[12/18/2017 21:31:06] mobile phone number has been confirmed) named
+[12/18/2017 21:31:06] to your liking. Set a description as well and
+[12/18/2017 21:31:06] set the application link to a placeholder site
+[12/18/2017 21:31:06] (we recommend http://example.com) then agree
+[12/18/2017 21:31:06] to the Developer Terms and Conditions.
+[12/18/2017 21:31:06] 
+[12/18/2017 21:31:06] Once created, click 'modify app permissions'
+[12/18/2017 21:31:06] beside the 'Access level' under 'Application
+[12/18/2017 21:31:06] Settings', then select Read and Write. Press
+[12/18/2017 21:31:06] 'Update Settings' to apply changes.
+[12/18/2017 21:31:06] 
+[12/18/2017 21:31:06] Last part! Go to 'Keys and Access Tokens' and
+[12/18/2017 21:31:06] press 'Create my access token' under 'Your
+[12/18/2017 21:31:06] Access Token'. Now it's time to fill in the
+[12/18/2017 21:31:06] blanks.
+[12/18/2017 21:31:06] 
+[12/18/2017 21:31:06] NOTE: Make sure no one else can see your keys,
+[12/18/2017 21:31:06] tokens and secrets. ConsoleTweeter does not
+[12/18/2017 21:31:06] upload your keys. They are safe in the run
+[12/18/2017 21:31:06] folder of the executable JAR file and on
+[12/18/2017 21:31:06] Twitter.
+[12/18/2017 21:31:06] 
+[12/18/2017 21:31:06] Insert your Consumer Key (API Key) found
+[12/18/2017 21:31:06] under 'Application Settings' below, then hit
+[12/18/2017 21:31:06] the Return/Enter key:
+RUN [12/18/2017 21:33:08] 
+[12/18/2017 21:33:08] Logger Initialized.
+[12/18/2017 21:33:08] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:33:08] Your config file is broken. Please delete 'cat-log.txt'.
+[12/18/2017 21:33:08] Afterwards, rerun the program to redo setup.
+[12/18/2017 21:33:08] Initializing twitter module...
+[12/18/2017 21:33:09] Twitter module initialized
+[12/18/2017 21:33:09] Confirming settings...
+[12/18/2017 21:33:09] Credentials are missing? This is a program-side problem.
+[12/18/2017 21:33:09] Report to the developer for fixing.
+[12/18/2017 21:33:09] Starting tweet piecing...
+[12/18/2017 21:33:09] Tweet pieced together. Locating errors...
+[12/18/2017 21:33:09] Tweet piecing successful.
+[12/18/2017 21:33:09] Raw input: 
+[12/18/2017 21:33:09] Syntaxed input: 
+[12/18/2017 21:33:09] All error checks complete. Preparing tweet...
+[12/18/2017 21:33:09] No arguments input. No tweet output.
+[12/18/2017 21:33:09] Tweet is a no-go. Exiting program...
+END [12/18/2017 21:33:09] 
+RUN [12/18/2017 21:33:34] 
+[12/18/2017 21:33:34] Logger Initialized.
+[12/18/2017 21:33:34] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:33:34] Your config file is broken. Please delete 'cat-log.txt'.
+[12/18/2017 21:33:35] Afterwards, rerun the program to redo setup.
+RUN [12/18/2017 21:34:10] 
+[12/18/2017 21:34:10] Logger Initialized.
+[12/18/2017 21:34:10] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:34:10] Your config file is broken. Please delete 'cat-log.txt'.
+[12/18/2017 21:34:10] Afterwards, rerun the program to redo setup.
+RUN [12/18/2017 21:38:09] 
+[12/18/2017 21:38:09] Logger Initialized.
+[12/18/2017 21:38:09] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:38:09] Your config file is broken. Please delete 'cat-log.txt'.
+[12/18/2017 21:38:09] Afterwards, rerun the program to redo setup.
+RUN [12/18/2017 21:38:49] 
+[12/18/2017 21:38:49] Logger Initialized.
+[12/18/2017 21:38:50] Configuration loaded. Let's rock and roll.
+[12/18/2017 21:38:50] Your config file is broken. Please delete 'cat-log.txt'.
+[12/18/2017 21:38:50] Afterwards, rerun the program to redo setup.
+END [12/18/2017 21:38:50] 
+RUN [12/18/2017 21:42:29] 
+[12/18/2017 21:42:29] Logger Initialized.
+[12/18/2017 21:42:29] Reading configuration...
+[12/18/2017 21:42:29] Config does not exist. Running first setup.
+[12/18/2017 21:42:29] This looks like your first time running, 
+[12/18/2017 21:42:29] so we're going to set everything up for you,
+[12/18/2017 21:42:29] but we need your help.
+[12/18/2017 21:42:29] 
+[12/18/2017 21:42:29] Please go to apps.twitter.com and we'll create
+[12/18/2017 21:42:29] a new application to run this program.
+[12/18/2017 21:42:29] 
+[12/18/2017 21:42:29] Create a new application (make sure that your
+[12/18/2017 21:42:29] mobile phone number has been confirmed) named
+[12/18/2017 21:42:29] to your liking. Set a description as well and
+[12/18/2017 21:42:29] set the application link to a placeholder site
+[12/18/2017 21:42:29] (we recommend http://example.com) then agree
+[12/18/2017 21:42:29] to the Developer Terms and Conditions.
+[12/18/2017 21:42:29] 
+[12/18/2017 21:42:29] Once created, click 'modify app permissions'
+[12/18/2017 21:42:29] beside the 'Access level' under 'Application
+[12/18/2017 21:42:29] Settings', then select Read and Write. Press
+[12/18/2017 21:42:29] 'Update Settings' to apply changes.
+[12/18/2017 21:42:29] 
+[12/18/2017 21:42:29] Last part! Go to 'Keys and Access Tokens' and
+[12/18/2017 21:42:29] press 'Create my access token' under 'Your
+[12/18/2017 21:42:29] Access Token'. Now it's time to fill in the
+[12/18/2017 21:42:29] blanks.
+[12/18/2017 21:42:29] 
+[12/18/2017 21:42:29] NOTE: Make sure no one else can see your keys,
+[12/18/2017 21:42:29] tokens and secrets. ConsoleTweeter does not
+[12/18/2017 21:42:29] upload your keys. They are safe in the run
+[12/18/2017 21:42:29] folder of the executable JAR file and on
+[12/18/2017 21:42:29] Twitter.
+[12/18/2017 21:42:29] 
+[12/18/2017 21:42:29] Insert your Consumer Key (API Key) found
+[12/18/2017 21:42:29] under 'Application Settings' below, then hit
+[12/18/2017 21:42:30] the Return/Enter key:
+[12/18/2017 21:42:38] Insert your Consumer Secret (API Secret) found
+[12/18/2017 21:42:38] under 'Application Settings' below, then hit
+[12/18/2017 21:42:38] the Return/Enter key:
+[12/18/2017 21:42:42] Insert your Access Token found
+[12/18/2017 21:42:42] under 'Your Access Token' below, then hit
+[12/18/2017 21:42:42] the Return/Enter key:
+[12/18/2017 21:42:48] Insert your Access Token Secret found
+[12/18/2017 21:42:48] under 'Your Access Token' below, then hit
+[12/18/2017 21:42:49] the Return/Enter key:
+[12/18/2017 21:42:53] Writing to configuration:
+[12/18/2017 21:42:53] Consumer Key: 75***...
+[12/18/2017 21:42:53] Consumer Secret: T7***...
+[12/18/2017 21:42:53] Access Token: 49***...
+[12/18/2017 21:42:53] Access Token Secret: 8s***...
+[12/18/2017 21:42:53] Reading configuration...
+[12/18/2017 21:42:53] Config found. Verifying values...
+[12/18/2017 21:42:53] Your config file is broken. Please delete 'cat-config.txt'.
+[12/18/2017 21:42:53] Afterwards, rerun the program to redo setup.
+END [12/18/2017 21:42:53] 
+RUN [12/18/2017 21:44:25] 
+[12/18/2017 21:44:25] Logger Initialized.
+[12/18/2017 21:44:25] Reading configuration...
+[12/18/2017 21:44:25] Config found. Verifying values...
+[12/18/2017 21:44:25] Your config file is broken. Please delete 'cat-config.txt'.
+[12/18/2017 21:44:25] Afterwards, rerun the program to redo setup.
+END [12/18/2017 21:44:25] 
+RUN [12/18/2017 21:44:34] 
+[12/18/2017 21:44:34] Logger Initialized.
+[12/18/2017 21:44:34] Reading configuration...
+[12/18/2017 21:44:34] Config found. Verifying values...
+[12/18/2017 21:44:35] Your config file is broken. Please delete 'cat-config.txt'.
+[12/18/2017 21:44:35] Afterwards, rerun the program to redo setup.
+END [12/18/2017 21:44:35] 
+RUN [12/18/2017 21:48:09] 
+[12/18/2017 21:48:09] Logger Initialized.
+[12/18/2017 21:48:09] Reading configuration...
+[12/18/2017 21:48:09] Config found. Verifying values...
+[12/18/2017 21:48:09] Your config file is broken. Please delete 'cat-config.txt'.
+[12/18/2017 21:48:09] Afterwards, rerun the program to redo setup.
+END [12/18/2017 21:48:09] 
+RUN [12/18/2017 21:50:09] 
+[12/18/2017 21:50:09] Logger Initialized.
+[12/18/2017 21:50:09] Reading configuration...
+[12/18/2017 21:50:09] Read CONSUMER-KEY: 75lLCQmC639pNqo7AkL5qZMOV
+RUN [12/18/2017 21:53:11] 
+[12/18/2017 21:53:11] Logger Initialized.
+[12/18/2017 21:53:11] Reading configuration...
+[12/18/2017 21:53:11] Read CONSUMER-KEY
+[12/18/2017 21:53:11] CONSUMER-KEY set to 75
+[12/18/2017 21:53:11] Read CONSUMER-SECRET
+[12/18/2017 21:53:11] CONSUMER-SECRET set to T7
+[12/18/2017 21:53:11] Read ACCESS-TOKEN
+[12/18/2017 21:53:11] ACCESS-TOKEN set to 49
+[12/18/2017 21:53:11] Read ACCESS-TOKEN-SECRET
+[12/18/2017 21:53:11] ACCESS-TOKEN-SECRET set to 8s
+[12/18/2017 21:53:11] Config found. Verifying values...
+[12/18/2017 21:53:11] Your config file is broken. Please delete 'cat-config.txt'.
+[12/18/2017 21:53:12] Afterwards, rerun the program to redo setup.
+END [12/18/2017 21:53:12] 
+RUN [12/18/2017 21:59:28] 
+[12/18/2017 21:59:28] Logger Initialized.
+[12/18/2017 21:59:28] Reading configuration...
+[12/18/2017 21:59:28] Read CONSUMER-KEY
+[12/18/2017 21:59:28] CONSUMER-KEY set to 75***...
+[12/18/2017 21:59:28] Read CONSUMER-SECRET
+[12/18/2017 21:59:28] CONSUMER-SECRET set to T7***...
+[12/18/2017 21:59:28] Read ACCESS-TOKEN
+[12/18/2017 21:59:28] ACCESS-TOKEN set to 49***...
+[12/18/2017 21:59:28] Read ACCESS-TOKEN-SECRET
+[12/18/2017 21:59:28] ACCESS-TOKEN-SECRET set to 8s***...
+[12/18/2017 21:59:28] Config found. Verifying values...
+[12/18/2017 21:59:28] Your config file is broken. Please delete 'cat-config.txt'.
+[12/18/2017 21:59:28] Afterwards, rerun the program to redo setup.
+END [12/18/2017 21:59:28] 
+RUN [12/18/2017 22:02:27] 
+[12/18/2017 22:02:27] Logger Initialized.
+[12/18/2017 22:02:27] Reading configuration...
+[12/18/2017 22:02:27] Read CONSUMER-KEY
+[12/18/2017 22:02:27] CONSUMER-KEY set to 75***...
+[12/18/2017 22:02:27] Null value located...
+[12/18/2017 22:02:27] Read CONSUMER-SECRET
+[12/18/2017 22:02:27] CONSUMER-SECRET set to T7***...
+[12/18/2017 22:02:27] Null value located...
+[12/18/2017 22:02:27] Read ACCESS-TOKEN
+[12/18/2017 22:02:27] ACCESS-TOKEN set to 49***...
+[12/18/2017 22:02:27] Null value located...
+[12/18/2017 22:02:27] Read ACCESS-TOKEN-SECRET
+[12/18/2017 22:02:27] ACCESS-TOKEN-SECRET set to 8s***...
+[12/18/2017 22:02:27] Null value located...
+[12/18/2017 22:02:27] Config found. Verifying values...
+[12/18/2017 22:02:27] Your config file is broken. Please delete 'cat-config.txt'.
+[12/18/2017 22:02:27] Afterwards, rerun the program to redo setup.
+END [12/18/2017 22:02:28] 
+RUN [12/18/2017 22:03:26] 
+[12/18/2017 22:03:26] Logger Initialized.
+[12/18/2017 22:03:26] Reading configuration...
+[12/18/2017 22:03:26] Read CONSUMER-KEY
+[12/18/2017 22:03:26] CONSUMER-KEY set to 75***...
+[12/18/2017 22:03:26] Null value located...
+[12/18/2017 22:03:26] Read CONSUMER-SECRET
+[12/18/2017 22:03:26] CONSUMER-SECRET set to T7***...
+[12/18/2017 22:03:26] Null value located...
+[12/18/2017 22:03:26] Read ACCESS-TOKEN
+[12/18/2017 22:03:26] ACCESS-TOKEN set to 49***...
+[12/18/2017 22:03:26] Null value located...
+[12/18/2017 22:03:26] Read ACCESS-TOKEN-SECRET
+[12/18/2017 22:03:26] ACCESS-TOKEN-SECRET set to 8s***...
+[12/18/2017 22:03:26] Null value located...
+[12/18/2017 22:03:26] Config found. Verifying values...
+[12/18/2017 22:03:26] Your config file is broken. Please delete 'cat-config.txt'.
+[12/18/2017 22:03:26] Afterwards, rerun the program to redo setup.
+END [12/18/2017 22:03:26] 
+RUN [12/18/2017 22:05:31] 
+[12/18/2017 22:05:31] Logger Initialized.
+[12/18/2017 22:05:31] Reading configuration...
+[12/18/2017 22:05:31] Read CONSUMER-KEY
+[12/18/2017 22:05:31] CONSUMER-KEY set to 75***...
+[12/18/2017 22:05:31] Null value located...
+[12/18/2017 22:05:31] Read CONSUMER-SECRET
+[12/18/2017 22:05:31] CONSUMER-SECRET set to T7***...
+[12/18/2017 22:05:31] Null value located...
+[12/18/2017 22:05:31] Read ACCESS-TOKEN
+[12/18/2017 22:05:31] ACCESS-TOKEN set to 49***...
+[12/18/2017 22:05:31] Null value located...
+[12/18/2017 22:05:31] Read ACCESS-TOKEN-SECRET
+[12/18/2017 22:05:32] ACCESS-TOKEN-SECRET set to 8s***...
+[12/18/2017 22:05:32] Null value located...
+[12/18/2017 22:05:32] Config found. Verifying values...
+[12/18/2017 22:05:32] Your config file is broken. Please delete 'cat-config.txt'.
+[12/18/2017 22:05:32] Afterwards, rerun the program to redo setup.
+END [12/18/2017 22:05:32] 
+RUN [12/18/2017 22:06:18] 
+[12/18/2017 22:06:18] Logger Initialized.
+[12/18/2017 22:06:18] Reading configuration...
+[12/18/2017 22:06:18] Read CONSUMER-KEY
+[12/18/2017 22:06:18] CONSUMER-KEY set to 75***...
+[12/18/2017 22:06:18] Null value located...
+[12/18/2017 22:06:18] Read CONSUMER-SECRET
+[12/18/2017 22:06:18] CONSUMER-SECRET set to T7***...
+[12/18/2017 22:06:18] Null value located...
+[12/18/2017 22:06:18] Read ACCESS-TOKEN
+[12/18/2017 22:06:18] ACCESS-TOKEN set to 49***...
+[12/18/2017 22:06:18] Null value located...
+[12/18/2017 22:06:18] Read ACCESS-TOKEN-SECRET
+[12/18/2017 22:06:18] ACCESS-TOKEN-SECRET set to 8s***...
+[12/18/2017 22:06:18] Null value located...
+[12/18/2017 22:06:18] Config found. Verifying values...
+[12/18/2017 22:06:18] Your config file is broken. Please delete 'cat-config.txt'.
+[12/18/2017 22:06:18] Afterwards, rerun the program to redo setup.
+END [12/18/2017 22:06:18] 
+RUN [12/18/2017 22:06:43] 
+[12/18/2017 22:06:43] Logger Initialized.
+[12/18/2017 22:06:43] Reading configuration...
+[12/18/2017 22:06:43] Read CONSUMER-KEY
+[12/18/2017 22:06:43] CONSUMER-KEY set to 75***...
+[12/18/2017 22:06:43] Read CONSUMER-SECRET
+[12/18/2017 22:06:43] CONSUMER-SECRET set to T7***...
+[12/18/2017 22:06:43] Read ACCESS-TOKEN
+[12/18/2017 22:06:43] ACCESS-TOKEN set to 49***...
+[12/18/2017 22:06:43] Read ACCESS-TOKEN-SECRET
+[12/18/2017 22:06:43] ACCESS-TOKEN-SECRET set to 8s***...
+[12/18/2017 22:06:43] Config found. Verifying values...
+[12/18/2017 22:06:44] Loading configuration values...
+[12/18/2017 22:06:44] Configuration values loaded.
+[12/18/2017 22:06:44] Initializing twitter module...
+[12/18/2017 22:06:44] Twitter module initialized
+[12/18/2017 22:06:44] Confirming settings...
+[12/18/2017 22:06:52] Starting tweet piecing...
+[12/18/2017 22:06:52] Tweet pieced together. Locating errors...
+[12/18/2017 22:06:52] Tweet piecing successful.
+[12/18/2017 22:06:52] Raw input: 
+[12/18/2017 22:06:52] Syntaxed input: 
+[12/18/2017 22:06:52] All error checks complete. Preparing tweet...
+[12/18/2017 22:06:52] No arguments input. No tweet output.
+[12/18/2017 22:06:52] Tweet is a no-go. Exiting program...
+END [12/18/2017 22:06:52] 
+RUN [12/18/2017 22:07:10] 
+[12/18/2017 22:07:10] Logger Initialized.
+[12/18/2017 22:07:10] Reading configuration...
+[12/18/2017 22:07:10] Read CONSUMER-KEY
+[12/18/2017 22:07:10] CONSUMER-KEY set to 75***...
+[12/18/2017 22:07:10] Read CONSUMER-SECRET
+[12/18/2017 22:07:10] CONSUMER-SECRET set to T7***...
+[12/18/2017 22:07:10] Read ACCESS-TOKEN
+[12/18/2017 22:07:10] ACCESS-TOKEN set to 49***...
+[12/18/2017 22:07:10] Read ACCESS-TOKEN-SECRET
+[12/18/2017 22:07:10] ACCESS-TOKEN-SECRET set to 8s***...
+[12/18/2017 22:07:10] Config found. Verifying values...
+[12/18/2017 22:07:10] Loading configuration values...
+[12/18/2017 22:07:10] Configuration values loaded.
+[12/18/2017 22:07:10] Initializing twitter module...
+[12/18/2017 22:07:10] Twitter module initialized
+[12/18/2017 22:07:10] Confirming settings...
+[12/18/2017 22:07:12] Starting tweet piecing...
+[12/18/2017 22:07:12] Tweet pieced together. Locating errors...
+[12/18/2017 22:07:12] Tweet piecing successful.
+[12/18/2017 22:07:12] Raw input: testing ConsoleTweeter. run at --dydatetimes-- 
+[12/18/2017 22:07:12] Syntaxed input: testing ConsoleTweeter. run at Mon 12/18/2017 10:07:12 PM 
+[12/18/2017 22:07:12] All error checks complete. Preparing tweet...
+[12/18/2017 22:07:12] Tweet is a go. Sending tweet...
+[12/18/2017 22:07:13] Tweeted "testing ConsoleTweeter. run at Mon 12/18/2017 10:07:12 PM" sucessfully at Mon Dec 18 22:07:12 SGT 2017
+[12/18/2017 22:07:13] ID: 942758145981530113
+END [12/18/2017 22:07:13] 
+RUN [12/19/2017 08:23:37] 
+[12/19/2017 08:23:37] Logger Initialized.
+[12/19/2017 08:23:37] Reading configuration...
+[12/19/2017 08:23:37] Read CONSUMER-KEY
+[12/19/2017 08:23:37] CONSUMER-KEY set to 75***...
+[12/19/2017 08:23:37] Read CONSUMER-SECRET
+[12/19/2017 08:23:37] CONSUMER-SECRET set to T7***...
+[12/19/2017 08:23:37] Read ACCESS-TOKEN
+[12/19/2017 08:23:37] ACCESS-TOKEN set to 49***...
+[12/19/2017 08:23:37] Read ACCESS-TOKEN-SECRET
+[12/19/2017 08:23:37] ACCESS-TOKEN-SECRET set to 8s***...
+[12/19/2017 08:23:37] Config found. Verifying values...
+[12/19/2017 08:23:37] Loading configuration values...
+[12/19/2017 08:23:37] Configuration values loaded.
+[12/19/2017 08:23:37] Initializing twitter module...
+[12/19/2017 08:23:37] Twitter module initialized
+[12/19/2017 08:23:37] Confirming settings...
+RUN [12/19/2017 08:25:59] 
+[12/19/2017 08:25:59] Logger Initialized.
+[12/19/2017 08:25:59] Reading configuration...
+[12/19/2017 08:25:59] Read CONSUMER-KEY
+[12/19/2017 08:25:59] CONSUMER-KEY set to 75***...
+[12/19/2017 08:25:59] Read CONSUMER-SECRET
+[12/19/2017 08:25:59] CONSUMER-SECRET set to T7***...
+[12/19/2017 08:25:59] Read ACCESS-TOKEN
+[12/19/2017 08:25:59] ACCESS-TOKEN set to 49***...
+[12/19/2017 08:25:59] Read ACCESS-TOKEN-SECRET
+[12/19/2017 08:25:59] ACCESS-TOKEN-SECRET set to 8s***...
+[12/19/2017 08:25:59] Config found. Verifying values...
+[12/19/2017 08:25:59] Loading configuration values...
+[12/19/2017 08:25:59] Configuration values loaded.
+[12/19/2017 08:25:59] Initializing twitter module...
+[12/19/2017 08:25:59] Twitter module initialized
+[12/19/2017 08:25:59] Confirming settings...
+RUN [12/19/2017 08:26:13] 
+[12/19/2017 08:26:13] Logger Initialized.
+[12/19/2017 08:26:13] Reading configuration...
+[12/19/2017 08:26:13] Config does not exist. Running first setup.
+[12/19/2017 08:26:16] -----------------First Setup--------------
+[12/19/2017 08:26:16] Please visit the link below to give access
+[12/19/2017 08:26:16] to your Twitter account.
+[12/19/2017 08:26:16] 
+[12/19/2017 08:26:16] https://api.twitter.com/oauth/authorize?oauth_token=kkGK6QAAAAAA3sLaAAABYGwp69o
+[12/19/2017 08:26:16] 
+[12/19/2017 08:26:16] Please input the PIN indicated below:
+[12/19/2017 08:27:13] Processing...
+[12/19/2017 08:27:14] Writing to configuration:
+[12/19/2017 08:27:14] Access Token: 49***...
+[12/19/2017 08:27:14] Access Token Secret: 8s***...
+[12/19/2017 08:27:14] Reading configuration...
+[12/19/2017 08:27:15] Read ACCESS-TOKEN
+[12/19/2017 08:27:15] ACCESS-TOKEN set to 49***...
+[12/19/2017 08:27:15] Read ACCESS-TOKEN-SECRET
+[12/19/2017 08:27:15] ACCESS-TOKEN-SECRET set to 8s***...
+[12/19/2017 08:27:15] Config found. Verifying values...
+[12/19/2017 08:27:15] Loading configuration values...
+[12/19/2017 08:27:15] Configuration values loaded.
+[12/19/2017 08:27:15] Initializing twitter module...
+[12/19/2017 08:27:15] Twitter module initialized
+[12/19/2017 08:27:15] Confirming settings...
+[12/19/2017 08:27:16] Starting tweet piecing...
+[12/19/2017 08:27:16] Tweet pieced together. Locating errors...
+[12/19/2017 08:27:16] Tweet piecing successful.
+[12/19/2017 08:27:16] Raw input: --dydatetimes-- 
+[12/19/2017 08:27:16] Syntaxed input: Tue 12/19/2017 08:27:16 AM 
+[12/19/2017 08:27:17] All error checks complete. Preparing tweet...
+[12/19/2017 08:27:17] Tweet is a go. Sending tweet...
+[12/19/2017 08:27:17] Tweeted "Tue 12/19/2017 08:27:16 AM" sucessfully at Tue Dec 19 08:27:15 SGT 2017
+[12/19/2017 08:27:17] ID: 942914189399437312
+END [12/19/2017 08:27:17] 
+RUN [12/19/2017 08:27:29] 
+[12/19/2017 08:27:29] Logger Initialized.
+[12/19/2017 08:27:29] Reading configuration...
+[12/19/2017 08:27:30] Read ACCESS-TOKEN
+[12/19/2017 08:27:30] ACCESS-TOKEN set to 49***...
+[12/19/2017 08:27:30] Read ACCESS-TOKEN-SECRET
+[12/19/2017 08:27:30] ACCESS-TOKEN-SECRET set to 8s***...
+[12/19/2017 08:27:30] Config found. Verifying values...
+[12/19/2017 08:27:30] Loading configuration values...
+[12/19/2017 08:27:30] Configuration values loaded.
+[12/19/2017 08:27:30] Initializing twitter module...
+[12/19/2017 08:27:30] Twitter module initialized
+[12/19/2017 08:27:30] Confirming settings...
+RUN [12/19/2017 08:33:27] 
+[12/19/2017 08:33:27] Logger Initialized.
+[12/19/2017 08:33:27] Reading configuration...
+[12/19/2017 08:33:27] Read ACCESS-TOKEN
+[12/19/2017 08:33:27] ACCESS-TOKEN set to 49***...
+[12/19/2017 08:33:27] Read ACCESS-TOKEN-SECRET
+[12/19/2017 08:33:27] ACCESS-TOKEN-SECRET set to 8s***...
+[12/19/2017 08:33:28] Config found. Verifying values...
+[12/19/2017 08:33:28] Loading configuration values...
+[12/19/2017 08:33:28] Configuration values loaded.
+[12/19/2017 08:33:28] Initializing twitter module...
+[12/19/2017 08:33:28] Twitter module initialized
+[12/19/2017 08:33:28] Confirming settings...
+RUN [12/19/2017 08:34:16] 
+[12/19/2017 08:34:16] Logger Initialized.
+[12/19/2017 08:34:16] Reading configuration...
+[12/19/2017 08:34:17] Read ACCESS-TOKEN
+[12/19/2017 08:34:17] ACCESS-TOKEN set to 49***...
+[12/19/2017 08:34:17] Read ACCESS-TOKEN-SECRET
+[12/19/2017 08:34:17] ACCESS-TOKEN-SECRET set to 8s***...
+[12/19/2017 08:34:17] Config found. Verifying values...
+[12/19/2017 08:34:17] Loading configuration values...
+[12/19/2017 08:34:17] Configuration values loaded.
+[12/19/2017 08:34:17] Initializing twitter module...
+[12/19/2017 08:34:17] Twitter module initialized
+[12/19/2017 08:34:17] Confirming settings...
+[12/19/2017 08:34:21] Starting tweet piecing...
+[12/19/2017 08:34:21] Tweet pieced together. Locating errors...
+[12/19/2017 08:34:21] Tweet piecing successful.
+[12/19/2017 08:34:21] Raw input: --dydatetimes-- 
+[12/19/2017 08:34:21] Syntaxed input: Tue 12/19/2017 08:34:21 AM 
+[12/19/2017 08:34:21] All error checks complete. Preparing tweet...
+[12/19/2017 08:34:21] Tweet is a go. Sending tweet...
+[12/19/2017 08:34:21] Tweeted "Tue 12/19/2017 08:34:21 AM" sucessfully at Tue Dec 19 08:34:19 SGT 2017
+[12/19/2017 08:34:21] ID: 942915967948021763
+END [12/19/2017 08:34:21] 
